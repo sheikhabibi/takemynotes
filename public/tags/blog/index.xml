@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Terminal</title>
-    <link>//localhost:1313/tags/blog/</link>
+    <link>/tags/blog/</link>
     <description>Recent content in Blog on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is my Blog post</title>
-      <link>//localhost:1313/posts/this/</link>
+      <link>/posts/this/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/this/</guid>
-      <description>&lt;h1 id=&#34;obsidian&#34;&gt;&#xD;&#xA;  Obsidian&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#obsidian&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;made using obsidian and hugoooo&#xA;idk how i did it&amp;hellip;&lt;/p&gt;&#xA;&lt;h1 id=&#34;tutorial&#34;&gt;&#xD;&#xA;  Tutorial&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tutorial&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;watch yt video, want the link?? i wont give hahahaaa&lt;/p&gt;&#xA;&lt;p&gt;yooooooooo here is a cat :)&lt;/p&gt;&#xA;&lt;p&gt;hi sahil&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/5be366ff-99d6-4043-ab74-1fa1f258b3ff.jpg&#34; alt=&#34;Image Description&#34; /&gt;&lt;/p&gt;</description>
+      <guid>/posts/this/</guid>
+      <description>&lt;h1 id=&#34;obsidian&#34;&gt;&#xD;&#xA;  Obsidian&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#obsidian&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;made using obsidian and hugoooo&#xA;idk how i did it&amp;hellip;&lt;/p&gt;&#xA;&lt;h1 id=&#34;tutorial&#34;&gt;&#xD;&#xA;  Tutorial&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tutorial&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;watch yt video, want the link?? i wont give hahahaaa&lt;/p&gt;&#xA;&lt;p&gt;yooooooooo here is a cat :)&lt;/p&gt;&#xA;&lt;p&gt;hi sahil&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/5be366ff-99d6-4043-ab74-1fa1f258b3ff.jpg&#34; alt=&#34;Image Description&#34; /&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
