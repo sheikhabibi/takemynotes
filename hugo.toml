@@ -2,8 +2,9 @@ baseurl = "/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-theme = "hugo-book"
+#theme = "hugo-book"
  #paginate = 5
+ remote_theme: pages-themes/hacker@v0.2.0
 
 pagination.pagerSize = 5
 
